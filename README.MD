@@ -10,7 +10,7 @@ git clone https://github.com/a972667237/course.git
 ```
 pip install -r requirements.txt
 ```
-依赖安装失败的话，自己查查怎么继续安装咯。。，里面lxml挺容易失败的，可以用html5lib代替，但需要自己去改代码（也就改一点小地方）
+依赖安装失败的话，自己查查怎么继续安装咯。。，里面lxml挺容易失败的，可以用html5lib代替，但需要自己去改代码（也就改一点小地方）(噢，PIL也挺难安装的= =、)
 ```
 python session.py your_stu_no your_passwd [course1, course2, ...]
 ```
