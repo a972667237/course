@@ -1,0 +1,4 @@
+beautifulsoup4==4.4.1
+image==1.5.3
+lxml==3.7.2
+requests==2.9.0
